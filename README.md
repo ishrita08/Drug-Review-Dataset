@@ -12,3 +12,7 @@ beautifulSoup: This is a library used for web scraping purposes to pull data out
 sklearn: This stands for scikit-learn which is a popular machine learning library in Python, which provides tools for data preprocessing, classification, regression, clustering, and more. It is widely used in industry and academia for building machine learning models.<br>  
 seaborn: This is a visualization library based on matplotlib used for making attractive and informative statistical graphics.<br>  
 matplotlib: This is a plotting library for creating static, animated, and interactive visualizations in Python.<br>  
+
+# Datasets
+The dataset used for this project is the famous Drug Review Dataset (Drugs.com) by UCI. The dataset can be found and downloaded from [here](https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com)
+
