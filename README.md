@@ -9,6 +9,6 @@ The project demonstrates the power of advanced machine learning techniques to ex
 pandas: This is used for data manipulation and analysis.<br>  
 numPy: This is used for numerical computing with Python.<br>  
 beautifulSoup: This is a library used for web scraping purposes to pull data out of HTML and XML files.<br>  
-sklearn: This stands for scikit-learn which is a popular machine learning library in Python, which provides tools for data preprocessing, classification, regression, clustering, and more. It is widely used in industry and academia for building machine learning models.
-seaborn: This is a visualization library based on matplotlib used for making attractive and informative statistical graphics.
-matplotlib: This is a plotting library for creating static, animated, and interactive visualizations in Python.
+sklearn: This stands for scikit-learn which is a popular machine learning library in Python, which provides tools for data preprocessing, classification, regression, clustering, and more. It is widely used in industry and academia for building machine learning models.<br>  
+seaborn: This is a visualization library based on matplotlib used for making attractive and informative statistical graphics.<br>  
+matplotlib: This is a plotting library for creating static, animated, and interactive visualizations in Python.<br>  
